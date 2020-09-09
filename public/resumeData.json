@@ -1,0 +1,162 @@
+{
+    "main": {
+        "name": "Meghal Donde",
+        "occupation": "Software Developer",
+        "description": "Full Stack Developer with experience in Desktop, Web, Mobile Applications.",
+        "image": "Meghal.jpg",
+        "bio": "My name is Meghal, I'm a Full Stack Software Developer. Currently I'm freelancing and coaching young minds Python. Life-long learner! These days learning Data Science and Machine learning Algorithms. I am a nature lover! If I am not coding, you may find me baking.",
+        "contactmessage": "Get in touch with me to receive further details about web/mobile apps, get coached or anything else.",
+        "email": "meghal.donde@gmail.com",
+        "phone": "XXX-XXX-XXXX",
+        "address": {
+            "street": "X XXXXXX XX",
+            "city": "Boston",
+            "state": "MA",
+            "zip": "US"
+        },
+        "website": "",
+        "resumedownload": "",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/meghal.donde",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/meghal-donde-ba4559130/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/meghaldonde/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/meghaldonde",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [{
+                "school": "University of Mumbai, MET",
+                "degree": "Masters in Computer Applications",
+                "graduated": "2005"
+
+            },
+            {
+                "school": "University of Mumbai, SIES",
+                "degree": "Bachelors of Science in Computer Science",
+                "graduated": "2002"
+
+            }
+        ],
+        "work": [{
+                "company": "Pinac",
+                "title": "Software Developer",
+                "years": "2017-18",
+                "description": "Created real-time charts using C#, ADS.net to connect PLC and HMI on Beckhoff Systems for a automation injection moulding machine."
+            },
+            {
+                "company": "QPair",
+                "title": "Software Developer",
+                "years": "Dec 2016 - April 2017",
+                "description": "Worked on Full stack mobile serverless application using ionic framework(angularJs 1.6) and nodejs microservices using AWS lambda, AWS Cognito, API gateway to create mobile app for tracking symptoms of austistic children."
+            },
+            {
+                "company": "On-site Analysis, now part of Spectro Scientific",
+                "title": "Software Developer",
+                "years": "Nov 2007 - July 2009",
+                "description": "Worked on Oil Analysis machine with a microsoft stack-VB.net,C#.net, SQL Server. Also, maintained legacy code in VB6."
+            },
+            {
+                "company": "Aptech Limited",
+                "title": "Software Engineer",
+                "years": "April 2004 - June 2006",
+                "description": "Worked on Learning management System using Java, Struts framework, apache server, PostGres."
+            }
+        ],
+        "skills": [{
+                "name": "ReactJs",
+                "level": "85%"
+            },
+            {
+                "name": "CSS",
+                "level": "75%"
+            },
+            {
+                "name": "Git",
+                "level": "60%"
+            },
+            {
+                "name": "Java",
+                "level": "90%"
+            },
+            {
+                "name": "HTML5",
+                "level": "90%"
+            },
+            {
+                "name": "MongoDB",
+                "level": "80%"
+            },
+            {
+                "name": "NodeJS",
+                "level": "80%"
+            },
+
+            {
+                "name": "C#",
+                "level": "80%"
+            },
+            {
+                "name": "SQL Server",
+                "level": "80%"
+            },
+            {
+                "name": "AWS",
+                "level": "50%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "Music Player",
+                "category": "Music Player using Javascript,HTML5,css",
+                "image": "music_player.png",
+                "url": "https://meghaldonde.github.io/music-player/"
+            },
+            {
+                "title": "React Video Player with YouTube API",
+                "category": "A simple React Application to search youtube videos  powered Youtube API",
+                "image": "video_player.png",
+                "url": "https://meghaldonde.github.io/youtube-video-react.github.io/"
+            },
+            {
+                "title": "Quote Generator",
+                "category": "A quote generator fetching quotes from API with a funny twist of simpson's character quotes. ",
+                "image": "quote_generator.png",
+                "url": "https://meghaldonde.github.io/quote-generator.github.io/"
+            },
+            {
+                "title": "MERN WhatsApp clone",
+                "category": "WhatsApp clone created using MangoDB,NodesJs,Express,React and Pusher for real time message sync.",
+                "image": "whatsapp_clone.png",
+                "url": "https://pedantic-mayer-bf171e.netlify.app/"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Meghal is highly focussed on the task at hand and doesn't feel accomplished until she is done with it.",
+                "user": ""
+            },
+            {
+                "text": "",
+                "user": ""
+            }
+        ]
+    }
+}
