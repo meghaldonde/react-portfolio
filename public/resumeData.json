@@ -44,13 +44,11 @@
                 "school": "University of Mumbai, MET",
                 "degree": "Masters in Computer Applications",
                 "graduated": "2005"
-
             },
             {
                 "school": "University of Mumbai, SIES",
                 "degree": "Bachelors of Science in Computer Science",
                 "graduated": "2002"
-
             }
         ],
         "work": [{
@@ -145,6 +143,12 @@
                 "category": "WhatsApp clone created using MangoDB,NodesJs,Express,React and Pusher for real time message sync.",
                 "image": "whatsapp_clone.png",
                 "url": "https://pedantic-mayer-bf171e.netlify.app/"
+            },
+            {
+                "title": "React Amazon clone",
+                "category": "Amazon clone created using React,Redux,Context API, firebase .",
+                "image": "Amazon-clone.png",
+                "url": " https://amaz-cl-meg.web.app/"
             }
         ]
     },
